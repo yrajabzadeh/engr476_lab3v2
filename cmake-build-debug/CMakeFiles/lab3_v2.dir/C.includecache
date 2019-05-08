@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stealthbomber/CLionProjects/engr476/lab3_v2/dijkstra_v2.c
+stdio.h
+-
+limits.h
+-
+stdbool.h
+-
+
